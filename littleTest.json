@@ -1,0 +1,13 @@
+[
+    {
+        "name": "All Snippets Displayed",
+        "actions": [
+            "Open the website 'https://google-gruyere.appspot.com/start'",
+            "Click on 'Agree & Start'",
+            "Click on 'All snippets'",
+            "Assert that 'Gruyere' OR 'Cheddar' is displayed on this page.",
+            "Assert that 'Bleu d'Auvergne' is displayed on this page."
+        ],
+        "expected": [1, 0]
+    }
+]
